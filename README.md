@@ -45,9 +45,7 @@ Venho evoluindo no ecossistema .NET, desenvolvendo APIs modernas e aplicando boa
 
 📊 Estatísticas:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TiagoSilva92&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-</p>
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TiagoSilva92&theme=tokyonight)
 
 📫 Contato:
 
