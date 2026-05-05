@@ -18,6 +18,7 @@ Venho evoluindo no ecossistema .NET, desenvolvendo APIs modernas e aplicando boa
 - C# / .NET / ASP.NET Core
 - Entity Framework Core
 - Git / GitHub
+- CSS / HTML
 
 🚀 O que eu já faço hoje:
 
