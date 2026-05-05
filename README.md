@@ -1,56 +1,72 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Tiago%20Silva&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+
 🚀 Tiago Silva
 
-💻 Analista e Desenvolvedor de Software Pleno PL-SQL / OpenText Gupta /.NET / Full Stack Web Student @TOTVS  
-🔧  Experiência com sistemas legados (OpenText Gupta) SQL, Backend focado em APIs REST e regras de negócio  
-📊 Experiência com sistemas corporativos e banco de dados  
-🚀 Evoluindo para desenvolvimento moderno com .NET e APIs REST  
+💻 Software Developer @ TOTVS  
+🔧 PL/SQL | OpenText Gupta | .NET  
+🚀 Backend | APIs REST | Evoluindo para Full Stack  
+
 
 🧠 Sobre mim
 
-Atuo com manutenção e evolução de sistemas corporativos, trabalhando diretamente com regras de negócio e banco de dados.
-Minha base com tecnologias legadas e SQL me trouxe forte capacidade analítica e entendimento de sistemas complexos.
-Venho evoluindo no ecossistema .NET, desenvolvendo APIs modernas e aplicando boas práticas de desenvolvimento.
+Atuo com manutenção e evolução de sistemas corporativos, lidando diretamente com regras de negócio e banco de dados.
+Minha experiência com tecnologias legadas e SQL me trouxe forte capacidade analítica e entendimento de sistemas complexos.
+Atualmente evoluindo no ecossistema .NET, desenvolvendo APIs modernas e aplicando boas práticas.
 
-⚙️ Stack Principal:
+⚙️ Tech Stack
 
-- OpenText Gupta (legado corporativo)
-- SQL (queries, procedures, análise de dados)
-- C# / .NET / ASP.NET Core
-- Entity Framework Core
-- Git / GitHub
-- CSS / HTML
+💾 Backend & Banco
+![SQL Server](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+![PLSQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-🚀 O que eu já faço hoje:
+🧱 Legado
+![Gupta](https://img.shields.io/badge/OpenText%20Gupta-003366?style=for-the-badge)
+
+🌐 Frontend (em evolução)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+🚀 O que eu faço hoje
 
 ✔️ Manutenção e evolução de sistemas legados críticos  
-✔️ Análise e implementação de regras de negócio  
+✔️ Implementação de regras de negócio  
 ✔️ Escrita e otimização de queries SQL  
-✔️ Desenvolvimento de APIs REST com boas práticas  
-✔️ Integração com banco de dados e regras de negócio  
-✔️ Organização de código e estruturação de projetos  
-✔️ Atuação em ambiente corporativo (TOTVS)  
+✔️ Desenvolvimento de APIs REST com .NET  
+✔️ Integração backend + banco de dados  
+✔️ Organização e estruturação de código  
 
-📌 Projetos em destaque:
 
-🔹 API REST com ASP.NET Core e EF Core  
-🔹 Automação de testes com Selenium WebDriver  
-🔹 Projetos práticos voltados para backend  
+📌 Projetos
 
-📈 Em evolução:
+🔹 APIs REST com ASP.NET Core e EF Core  
+🔹 Automação de testes com Selenium  
+🔹 Projetos backend e full stack em evolução  
+
+
+📈 Em evolução
 
 - Clean Architecture  
 - Domain-Driven Design (DDD)  
 - Arquitetura de sistemas escaláveis  
 - Full Stack (React)  
-- Evolução para área de Produto  
-
-📊 Estatísticas:
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TiagoSilva92&theme=tokyonight)
-
-📫 Contato:
-
-🔗 LinkedIn: https://www.linkedin.com/in/tiago-da-silva-melo-2b2221ab/
+- Product Thinking  
 
 
-💡 _Construindo soluções que vão além do código._
+📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TiagoSilva92&theme=tokyonight"/>
+</p>
+
+
+📫 Contato
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/tiago-da-silva-melo-2b2221ab/
+
+
+💡 _Experiência com legado + evolução para o moderno._
