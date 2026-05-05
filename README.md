@@ -3,13 +3,11 @@
   🔧 PL/SQL | OpenText Gupta | .NET <br/>
   🚀 APIs REST | Evoluindo para Full Stack
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/tiago-da-silva-melo-2b2221ab/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
 🧠 Sobre mim
 
 Atuo com manutenção e evolução de sistemas corporativos, trabalhando diretamente com regras de negócio e banco de dados.
