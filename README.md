@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Tiago%20Silva&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
-🚀 Tiago Silva
-
 💻 Software Developer @ TOTVS  
 🔧 PL/SQL | OpenText Gupta | .NET  
 🚀 Backend | APIs REST | Evoluindo para Full Stack  
@@ -29,7 +27,6 @@ Atualmente evoluindo no ecossistema .NET, desenvolvendo APIs modernas e aplicand
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-
 🚀 O que eu faço hoje
 
 ✔️ Manutenção e evolução de sistemas legados críticos  
@@ -39,13 +36,11 @@ Atualmente evoluindo no ecossistema .NET, desenvolvendo APIs modernas e aplicand
 ✔️ Integração backend + banco de dados  
 ✔️ Organização e estruturação de código  
 
-
 📌 Projetos
 
 🔹 APIs REST com ASP.NET Core e EF Core  
 🔹 Automação de testes com Selenium  
 🔹 Projetos backend e full stack em evolução  
-
 
 📈 Em evolução
 
@@ -55,18 +50,15 @@ Atualmente evoluindo no ecossistema .NET, desenvolvendo APIs modernas e aplicand
 - Full Stack (React)  
 - Product Thinking  
 
-
 📊 Estatísticas
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TiagoSilva92&theme=tokyonight"/>
 </p>
 
-
 📫 Contato
 
 🔗 LinkedIn:  
 https://www.linkedin.com/in/tiago-da-silva-melo-2b2221ab/
-
 
 💡 _Experiência com legado + evolução para o moderno._
